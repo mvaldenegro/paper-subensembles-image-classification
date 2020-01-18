@@ -2,7 +2,6 @@
 # Available at: https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py
 
 import keras_uncertainty
-from keras_uncertainty.models import DeepSubensembleRegressor, DeepSubensembleClassifier
 from keras_uncertainty.utils import numpy_negative_log_likelihood
 
 import keras, sys

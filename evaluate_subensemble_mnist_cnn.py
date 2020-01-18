@@ -2,7 +2,6 @@
 # Available at: https://raw.githubusercontent.com/keras-team/keras/master/examples/mnist_cnn.py
 
 import keras_uncertainty
-from keras_uncertainty.models import DeepSubensembleRegressor, DeepSubensembleClassifier
 from keras_uncertainty.utils import numpy_negative_log_likelihood
 
 import keras
